@@ -31,6 +31,16 @@ A visually appealing way to display proportions and percentages, making complex 
 
 One of the most challenging aspects of this project was customizing the borders to be rounded. This involved meticulous work to determine the right sizes and designing the borders outside of Tableau. Despite the difficulty, this customization significantly enhanced the visual appeal of the dashboards.
 
+
+Dashboards: 
+
+1-
+![image](https://github.com/Raghad-El-Ghobashy/Sales-Data-Analysis-Tableau/blob/main/Sales%20By%20Category-Sub-Category.png)
+
+2-
+![image](https://github.com/Raghad-El-Ghobashy/Sales-Data-Analysis-Tableau/blob/main/Sales%20By%20Country-City-State-Region.png)
+
+
 ## Conclusion 💡
 
 This project demonstrates the power of Tableau in transforming raw data into meaningful insights. The dashboards created provide valuable information for driving business decisions and understanding sales performance across different dimensions.
